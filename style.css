@@ -43,3 +43,15 @@ h1 {
     color: ghostwhite;
     font-size: 24px;
 }
+
+footer {
+background-color: floralwhite;
+padding: 15px 25px;
+color: darkblue;
+}
+
+.cartao-interno  {
+    position: relative;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px red;
+} 
